@@ -1,0 +1,11 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.tools/
+gh.zip
+
+# Local environment files
+.env
+.env.*
